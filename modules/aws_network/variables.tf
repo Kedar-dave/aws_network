@@ -28,3 +28,7 @@ variable "env" {
   description = "Deployment Environment"
 }
 
+# variable "region" {
+#   description = "AWS region"
+#   type        = string
+# }
